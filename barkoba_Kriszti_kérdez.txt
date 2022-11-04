@@ -6,7 +6,7 @@ Igen.
 Lakáson belül használjuk?
 Igen.
 Konyhában használjuk?
-Igen.
+Igen. (ha van)
 Hideg étel készítéséhez használjuk? 
 Nem.
 Főzéshez használjuk?
