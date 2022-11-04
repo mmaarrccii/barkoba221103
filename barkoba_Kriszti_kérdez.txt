@@ -3,3 +3,5 @@ tárgy?
 Igen.
 használati tárgy?
 Igen.
+Lakáson belül használjuk?
+
