@@ -8,5 +8,4 @@ Igen.
 Konyhában használjuk?
 Igen.
 Hideg étel készítéséhez használjuk? 
-
-
+Nem.
