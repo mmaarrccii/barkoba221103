@@ -6,4 +6,5 @@ Igen.
 Lakáson belül használjuk?
 Igen.
 Konyhában használjuk?
+Igen.
 
